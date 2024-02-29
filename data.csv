@@ -1,0 +1,10 @@
+Borrower,Loan,Interest_rate,Gender
+1,10000,15,Male
+2,20000,14,Female
+3,50000,13.5,Female
+4,,12.5,Male
+5,150000,10,
+6,200000,,
+7,300000,8.5,Male
+,400000,7,Female
+9,500000,6.5,Male
